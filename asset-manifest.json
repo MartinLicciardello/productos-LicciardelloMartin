@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/productos-LicciardelloMartin/static/css/main.7bb814e7.css",
+    "main.js": "/productos-LicciardelloMartin/static/js/main.1cd1e25f.js",
+    "static/js/787.1d64ea75.chunk.js": "/productos-LicciardelloMartin/static/js/787.1d64ea75.chunk.js",
+    "index.html": "/productos-LicciardelloMartin/index.html",
+    "main.7bb814e7.css.map": "/productos-LicciardelloMartin/static/css/main.7bb814e7.css.map",
+    "main.1cd1e25f.js.map": "/productos-LicciardelloMartin/static/js/main.1cd1e25f.js.map",
+    "787.1d64ea75.chunk.js.map": "/productos-LicciardelloMartin/static/js/787.1d64ea75.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bb814e7.css",
+    "static/js/main.1cd1e25f.js"
+  ]
+}
